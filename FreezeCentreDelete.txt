@@ -1,7 +1,0 @@
-FreezeTransformations;
-CenterPivot;
-DeleteAllHistory;
-print "Frozen, Centred and Deleted";
-
-
-# Made by Kieron

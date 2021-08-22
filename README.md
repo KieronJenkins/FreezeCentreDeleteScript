@@ -1,4 +1,4 @@
-# FreezeCentreDeleteScript
+# Centre Pivot, Freeze Transforms and Delete History Script
 
 <a href="https://github.com/KieronJenkins" target="_blank"><img src="https://img.shields.io/github/followers/kieronjenkins?label=Follow&style=social" alt="Github Follow"></a>
 
